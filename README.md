@@ -1,2 +1,2 @@
-# Info_C_esercizi
+# Info_C
 My exercise!
